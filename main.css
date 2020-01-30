@@ -41,6 +41,7 @@ body{
     display: flex;
     justify-content: flex-end;
     padding-right: 40px;
+    padding-top: 0;
 }
 .intro{
   background-color: #222;
