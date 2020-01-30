@@ -75,7 +75,7 @@ body{
   clear: none;
   text-align: center;
   padding-top: 20px;
-  padding-bottom: 6px;
+  padding-bottom: 20px;
 }
 .u2intro{
   background-color: #222;
@@ -87,13 +87,13 @@ body{
 }
 .u2main{
   background-color: #333;
-  height: 20%;
+  height: 905px;
   width: 960px;
   float: left;
   clear: none;
   text-align: center;
   padding-top: 20px;
-  padding-bottom: 6px;
+  padding-bottom: 20px;
 }
 .reviewintro{
   background-color: #222;
@@ -111,7 +111,7 @@ body{
   clear: none;
   text-align: center;
   padding-top: 20px;
-  padding-bottom: 6px;
+  padding-bottom: 20px;
 }
 .conintro{
   background-color: #222;
