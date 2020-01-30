@@ -251,6 +251,8 @@ h5{
 .navlinks{
   color: #fff;
   text-decoration: none;
+  background-color:rgba(34,34,34,0.6);
+  padding: 0px 24px 12px 24px;
 }
 .links{
   color: #fff;
