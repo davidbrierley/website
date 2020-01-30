@@ -53,7 +53,7 @@ body{
 .banners{
     background-color: #333;
     padding-top: 30px;
-    padding-bottom: 30px;
+    padding-bottom: 20px;
     height: 260px;
     width: 960px;
     float: left;
@@ -75,6 +75,7 @@ body{
   clear: none;
   text-align: center;
   padding-top: 20px;
+  padding-bottom: 10px;
 }
 .u2intro{
   background-color: #222;
@@ -92,6 +93,7 @@ body{
   clear: none;
   text-align: center;
   padding-top: 20px;
+  padding-bottom: 10px;
 }
 .reviewintro{
   background-color: #222;
@@ -109,6 +111,7 @@ body{
   clear: none;
   text-align: center;
   padding-top: 20px;
+  padding-bottom: 10px;
 }
 .conintro{
   background-color: #222;
