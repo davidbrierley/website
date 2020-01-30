@@ -18,7 +18,7 @@ body{
     margin: 0 auto 0 auto;
     border: solid;
     border-color: #222;
-    border-width: thick;
+    border-width: medium;
 }
 .bigimage{
     background-image: url('mountain2.png');
