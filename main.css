@@ -139,7 +139,6 @@ body{
   padding-top: 20px;
 }
 .leftmargin{
-  height: 22px;
   width: 72px;
   float: left;
   clear: none;
@@ -160,7 +159,6 @@ body{
   justify-content: center;
 }
 .lmidmargin{
-  height: 22px;
   width: 72px;
   float: left;
   clear: none;
@@ -181,7 +179,6 @@ body{
   justify-content: center;
 }
 .rmidmargin{
-  height: 22px;
   width: 72px;
   float: left;
   clear: none;
@@ -202,7 +199,6 @@ body{
   justify-content: center;
 }
 .rightmargin{
-  height: 22px;
   width: 72px;
   float: left;
   clear: none;
