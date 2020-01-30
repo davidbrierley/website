@@ -53,6 +53,8 @@ body{
 .banners{
     background-color: #333;
     padding-top: 30px;
+    padding-bottom: 30px;
+    height: 10%;
     width: 960px;
     float: left;
     clear: none;
